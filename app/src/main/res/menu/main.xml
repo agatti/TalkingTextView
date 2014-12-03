@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="it.frob.talkingtextview.app.MainActivity" >
+
+    <item android:id="@+id/action_pause"
+        android:title="@string/action_pause"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:visible="false" />
+
+    <item android:id="@+id/action_start"
+        android:title="@string/action_start"
+        android:orderInCategory="101"
+        android:showAsAction="ifRoom" />
+
+    <item android:id="@+id/action_stop"
+        android:title="@string/action_stop"
+        android:orderInCategory="102"
+        android:showAsAction="ifRoom" />
+</menu>

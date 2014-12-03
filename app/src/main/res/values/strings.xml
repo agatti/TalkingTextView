@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TalkingTextView</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_start">Start</string>
+    <string name="action_stop">Stop</string>
+    <string name="tts_test">
+Midway upon the journey of our life\n
+I found myself within a forest dark,\n
+For the straightforward pathway had been lost.\n
+Ah me! how hard a thing it is to say\n
+What was this forest savage, rough, and stern,\n
+Which in the very thought renews the fear.\n
+So bitter is it, death is little more;\n
+But of the good to treat, which there I found,\n
+Speak will I of the other things I saw there.\n
+I cannot well repeat how there I entered,\n
+So full was I of slumber at the moment\n
+In which I had abandoned the true way.\n
+But after I had reached a mountain\'s foot,\n
+At that point where the valley terminated,\n
+Which had with consternation pierced my heart,\n
+Upward I looked, and I beheld its shoulders,\n
+Vested already with that planet\'s rays\n
+Which leadeth others right by every road.
+    </string>
+</resources>
